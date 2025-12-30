@@ -53,6 +53,29 @@ Using **bun**:
 bun install
 ```
 
+### 3️⃣ Run the development server
+
+Using **npm**:
+```bash
+npm run dev
+```
+
+Using **yarn**:
+```bash
+yarn dev
+```
+
+Using **bun**:
+```bash
+bun dev
+```
+
+### 4️⃣ Preview in browser
+
+```text
+http://localhost:5173
+```
+
 ---
 
 ## 📄 License
