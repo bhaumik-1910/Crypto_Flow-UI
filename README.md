@@ -1,4 +1,4 @@
-# 🚀 Crypto Flow UI
+# 🚀 Crypto Flow UI 
 
 Crypto Flow UI is a **modern, responsive cryptocurrency dashboard UI** designed to present crypto market data in a clean and visually appealing way.  
 This project focuses on **frontend UI design** and can be connected to any crypto API backend.
